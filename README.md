@@ -7,4 +7,6 @@ memo for stable-diffusion-webui
 A note field is added below the negative prompt.
 Memo contents are stored in local storage.
 
+<div style="border: 2px solid black;">
 ![add memo block](https://github.com/aoi68k/stable-diffusion-webui-memo_text_block/blob/main/image.png?raw=true)
+</div>
